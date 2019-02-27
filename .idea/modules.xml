@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ds-common/ds-common.iml" filepath="$PROJECT_DIR$/ds-common/ds-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/ds-manager/ds-manager.iml" filepath="$PROJECT_DIR$/ds-manager/ds-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ds-manager/ds-manger-pojo/ds-manger-pojo.iml" filepath="$PROJECT_DIR$/ds-manager/ds-manger-pojo/ds-manger-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ds-parent/ds-parent.iml" filepath="$PROJECT_DIR$/ds-parent/ds-parent.iml" />
     </modules>
   </component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ds-manger-pojo:war">
+    <output-path>$PROJECT_DIR$/ds-manager/ds-manger-pojo/target</output-path>
+    <root id="archive" name="ds-manger-pojo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ds-manger-pojo:war exploded" />
+    </root>
+  </artifact>
+</component>

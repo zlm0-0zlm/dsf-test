@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ds-parent" />
+        <module name="ds-common" />
+        <module name="ds-manger-pojo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ds-common" target="1.5" />
+      <module name="ds-manager" target="1.5" />
+      <module name="ds-manger-pojo" target="1.5" />
       <module name="ds-parent" target="1.5" />
     </bytecodeTargetLevel>
   </component>
